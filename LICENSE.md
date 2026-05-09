@@ -1,4 +1,4 @@
-
+automatic Little Snitch for macOS Integration | two-factor-authentication + encryption offers the most advanced Little Snitch for macOS integration, with two-factor-authentication
 
 
 
